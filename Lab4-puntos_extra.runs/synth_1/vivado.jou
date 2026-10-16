@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Fri Oct 16 10:47:48 2026
+# Process ID         : 19052
+# Current directory  : D:/CUARTO CICLO 2026-II/Arquitectura de Computadoras/VIVADO/P0/Lab4-puntos_extra/Lab4-puntos_extra.runs/synth_1
+# Command line       : vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file           : D:/CUARTO CICLO 2026-II/Arquitectura de Computadoras/VIVADO/P0/Lab4-puntos_extra/Lab4-puntos_extra.runs/synth_1/top.vds
+# Journal file       : D:/CUARTO CICLO 2026-II/Arquitectura de Computadoras/VIVADO/P0/Lab4-puntos_extra/Lab4-puntos_extra.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-95BCOLLV
+# Platform           : Windows 11
+# Operating System   : 26300
+# Processor Detail   : Intel(R) Core(TM) i9-14900HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 24
+# CPU Logical cores  : 32
+# Host memory        : 34049 MB
+# Swap memory        : 19327 MB
+# Total Virtual      : 53376 MB
+# Available Virtual  : 24825 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
